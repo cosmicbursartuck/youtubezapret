@@ -1,6 +1,6 @@
 # youtubezapret
 
-YouTube тормозит из‑за DPI. youtubezapret обходит это на Windows 10/11 одним .bat файлом.
+Актуальная версия с поддержкой работы YouTube. Быстрее, надежнее, стабильнее
 
 YouTube тормозит из‑за DPI. youtubezapret обходит это на Windows 10/11 одним .bat файлом. обход замедления YouTube, YouTube тормозит что делать, YouTube не грузит видео, ускорить YouTube без VPN. Windows 10 и 11, без VPN.
 
